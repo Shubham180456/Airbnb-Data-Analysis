@@ -7,6 +7,31 @@ The **Airbnb Data Analysis & Performance Optimization** project aims to provide 
 
 This project uses various data analysis techniques to clean, explore, and model the data to forecast future demand and offer recommendations for improving listing performance. The analysis is geared towards Airbnb hosts and business analysts who want to enhance customer satisfaction and increase revenue.
 
+# Table of Contents
+
+Project Overview
+
+Key Features
+
+Dataset
+
+Project Workflow
+1. Data Cleaning and Preparation
+2. Descriptive Data Analysis
+3. City-Based Performance Insights
+4. Demand and Pricing Trends
+5. Advanced Data Analysis
+6. Time Series Forecasting
+7. Key Insights and Recommendations
+8. Business Strategy Development
+9. Create Visualizations and Reports
+    
+Installation
+
+Results and Reports
+
+Contact
+
 # key Features
 
 - **Data Cleaning & Preparation**: Handle missing data, convert date columns, and clean the dataset to ensure accuracy for analysis.
